@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "discord.js": "github:discordjs/discord.js",
+    "node-fetch": "^2.6.1",
+    "sqlite3": "^5.0.2"
+  },
+  "devDependencies": {
+    "typescript": "^4.3.5"
+  },
+  "name": "discord-github-file-search",
+  "description": "Discord bot that allows you to search for files in respositories on GitHub",
+  "version": "1.0.0",
+  "main": "built/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enteryournamehere/discord-github-file-search.git"
+  },
+  "author": "enteryournamehere",
+  "license": "AGPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/enteryournamehere/discord-github-file-search/issues"
+  },
+  "homepage": "https://github.com/enteryournamehere/discord-github-file-search#readme"
+}

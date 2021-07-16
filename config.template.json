@@ -1,0 +1,6 @@
+{
+    "token": "discord bot token here",
+    "immediate_update_guilds": [
+        "123456789123456789"
+    ]
+}
